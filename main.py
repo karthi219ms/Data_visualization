@@ -10,7 +10,7 @@ plt.figure(figsize=(16,6))
 sns.lineplot(data=fifa_data['ARG'],label='ARG')
 plt.show()
 def function():
-    print(f'Hi')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi')  # Press
 
 
 if __name__ == '__main__':
